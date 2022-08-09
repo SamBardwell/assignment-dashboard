@@ -1,6 +1,6 @@
 # assignment-dashboard
-
-# Goal of this project
-
-# to start dev server on local host
-## npm start
+A web application where you can manage your assignments.
+***
+# How to run
+```npm start```
+***
